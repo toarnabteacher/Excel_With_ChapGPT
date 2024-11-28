@@ -1,6 +1,7 @@
 # Excel_With_ChapGPT
 
 * **GitHub Link:** https://github.com/toarnabteacher/Excel_With_ChapGPT or https://tinyurl.com/28ftwcy5
+* **Online Session MS-Teams Link for all sessions:** https://tinyurl.com/2s3yxjnr
 
 ## Preparation and Study Guide
 ## Prompt Engineering Resources:
