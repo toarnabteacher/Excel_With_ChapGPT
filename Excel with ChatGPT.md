@@ -116,7 +116,7 @@ Now we require formulas to create new columns as mentioned below -
 
 
 ## **Exercise - 9**
-* **Prompt -** `Create a table containing distinct EmpID, EmpName and EmpDept, were EmpDept has four distinct department names only.`
+* **Prompt -** `Create a table containing distinct EmpID, EmpName and EmpDept, where EmpDept has four distinct department names only.`
 1. Copy the generated data and paste them to one blank excel worksheet at cell A1.
 * **Prompt -**
 <pre>
