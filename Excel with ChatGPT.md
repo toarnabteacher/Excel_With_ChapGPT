@@ -91,7 +91,8 @@ f. Cell A1 of each sheet will contain the worksheet name.
 1. After creation of the macro, run the macro as instructions are given.
 2. Go to Home -> Cell (Group) -> Format, to verify the row and column widths.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/d68528d0-8598-4389-bf9a-8bdec3aec12a)
+![image](https://github.com/user-attachments/assets/74bff31c-7a03-4d7e-aa77-e6fa18f04b61)
+
 <hr>
 
 ## **Exercise - 8**
@@ -109,8 +110,10 @@ Now we require formulas to create new columns as mentioned below -
 2. Create column heads Full_Name, CTC in Lakhs, Gender_Code and CTC Category. Put required formulas under them as suggested.
 3. Now drag those formulas for the rest of the cells in those columns.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/bc41655d-04b7-4ed7-978d-9464021581ab)
+![image](https://github.com/user-attachments/assets/423b9c9f-b5f1-48d6-9bd8-dd7530bf9795)
+
 <hr>
+
 
 ## **Exercise - 9**
 * **Prompt -** `Create a table containing distinct EmpID, EmpName and EmpDept, were EmpDept has four distinct department names only.`
@@ -125,7 +128,8 @@ There is a dataset from A1 to C21 including header row containing EmpID, EmpName
 </pre>
 2. Now put proper headings as required and copy the respective formulas as suggested by ChatGPT to the respective worksheet cells.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/ad803bd5-2c6c-4a72-98c1-e47f3808109f)
+![image](https://github.com/user-attachments/assets/e8524c92-1d3f-4d88-adf5-c60ab576f2d1)
+
 <hr>
 
 ## **Exercise - 10**
@@ -144,7 +148,8 @@ There is a dataset from A1 to C21 including header row containing EmpID, EmpName
 * **Prompt -** `Can you draw all these suggested graphs and charts?`
 
 ## **Output:**
-![image](https://github.com/user-attachments/assets/a2aed3d9-38d7-412c-a7b3-5d9a99700eac)
+![image](https://github.com/user-attachments/assets/4255a6c2-ed89-4fbb-af74-e55f094b70ca)
+
 <hr> <hr>
 
 ## **Exercise - 11**
