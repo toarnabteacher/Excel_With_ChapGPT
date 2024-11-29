@@ -13,7 +13,8 @@
 * **Prompt -** `Please write the steps to convert dataset at A1 to T21 to a table.`
 6. Follow the steps given to do the needful actions to convert the dataset to a table.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/abb4313f-d9b1-4de1-927b-d088c4fb3f98)
+![image](https://github.com/user-attachments/assets/1c82cdfb-e629-4d77-a5ef-232fb5dec61c)
+
 <hr>
 
 ## **Exercise - 2**
@@ -27,7 +28,8 @@
 * **Prompt -** `Please mention formulas to get Age, Email and Reg. No. of that employee whose name is at cell K2 based on the above-mentioned table.`
 5. Follow the given instructions. Copy the formulas and paste them at cells K3, K4 and K5 respectively.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/d3f9abf7-3a21-4607-a531-63cf758d3944)
+![image](https://github.com/user-attachments/assets/6fd9c5a9-f8e6-4ef9-8324-7aae7154ed36)
+
 <hr>
 
 ## **Exercise - 3**
@@ -39,14 +41,16 @@
 * **Prompt -** Please mention steps to highlight cell from C2:C21 if it is 'Late Arrival'.
 * Follow the steps and do the needful conditional formatting.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/ec68e9c1-8709-451b-a6cf-6e6e87cd03ce)
+![image](https://github.com/user-attachments/assets/7b862310-a119-4721-adbb-be48e3365d88)
+
 <hr>
 
 ## **Exercise - 4**
 * **Prompt -** `Create an Excel Macro to make an 'EMI Calculator'.`
 1. Follow all the steps as mentioned in the instruction list and do the needful.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/60c29aa4-4fc6-4588-accd-3434d38ad2fb)
+![image](https://github.com/user-attachments/assets/04927239-0885-4dee-9fea-2a99908c5440)
+
 <hr>
 
 ## **Exercise - 5**
@@ -57,7 +61,8 @@
 * **Prompt -** `I am having data in Sheet5 A1 to B21 and in Sheet6 A1:B27 with heading 'EmpName' and 'EmpEmail'. Select only duplicate data in these two sheets and copy them in Sheet7 in A and B columns with proper headings.`
 3. Follow all the steps as mentioned in the instruction list and do the needful.
 ## **Output:**
-![image](https://github.com/user-attachments/assets/bfa723f4-fa5a-4695-8a49-ebd44d823b13)
+![image](https://github.com/user-attachments/assets/dea0edaf-793a-43f0-b315-fbc479bec02d)
+
 <hr>
 
 ## **Exercise - 6**
@@ -68,7 +73,8 @@
 * **Prompt -** `Now also generate the steps to highlight the cell whose value is getting selected for that specific given Item Name and the Month based on the previous table whose top left header cell is at A1.`
 * Follow all the steps as mentioned in the instruction list and do the needful. We may require a correction of the ChatGPT given formula. The correct formula will be - **=AND($A1=$Q$2, A$1=$Q$3)**
 ## **Output:**
-![image](https://github.com/user-attachments/assets/8e288d23-d54b-4c95-b063-0ca3e8c40e91)
+![image](https://github.com/user-attachments/assets/471a5e7c-c52e-4f64-948c-cac9803c1d4f)
+
 <hr>
 
 ## **Exercise - 7**
